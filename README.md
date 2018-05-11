@@ -9,7 +9,7 @@ As of now one can use the batch file as follows:
 
 ```
   set PROJECT_HOME={project home directory}
-  set PROJECT_NAME={project name(check your build.xml) }
+  set PROJECT_NAME={project name(check your build.xml)}
 ```
 3. Start the batch file: 
 
