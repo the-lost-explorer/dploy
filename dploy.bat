@@ -1,3 +1,5 @@
+cd /d %CATALINA_HOME%\\bin
+call shutdown.bat 
 cd /d %PROJECT_HOME%
 call ant war
 copy %PROJECT_HOME%\\%PROJECT_NAME%.war %CATALINA_HOME%\\webapps
