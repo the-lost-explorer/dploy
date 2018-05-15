@@ -4,7 +4,8 @@ This is a simple utility which will be made into a java app to run GWT applicati
 
 **v1.0**
 Update
-Java Applet for deploying your gwt app on Windows system is now ready.
+Java Applet for deploying your gwt app on Windows system is now ready. 
+
 ```dploy.bat``` is no more available. If you still want to use is seperately the head over to the ```/src``` folder and look up for ```tmp1.bat``` which is pretty much the same batch file.
 __________________________________________________________________________________________________________________________________________
 **v0.1**
