@@ -2,9 +2,10 @@
 
 This is a simple utility which will be made into a java app to run GWT applications on Tomcat server. It creates **.war** file using Apache Ant and then deploys it on Apache Tomcat Server.
 
-**Update v1.0**
+**v1.0**
+Update
 Java Applet for deploying your gwt app on Windows system is now ready.
-
+__________________________________________________________________________________________________________________________________________
 **v0.1**
 As of now one can use the batch file as follows:
 
